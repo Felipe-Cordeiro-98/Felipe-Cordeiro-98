@@ -16,4 +16,4 @@ Meu nome é Felipe, amo tecnologia e venho estudando a algum tempo sobre program
 
 > Atualmente meu foco está sendo em JavaScript e suas ferramentas.
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cordeiro-98&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
