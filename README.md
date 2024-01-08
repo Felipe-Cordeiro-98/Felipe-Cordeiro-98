@@ -1,15 +1,13 @@
 # Felipe Cordeiro
 
-:computer: I'm Back-End Developer!
+:computer: Sou Desenvolvedor Back-End!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Moro no Brasil.
 
-:books: I'm currently studying software engineering.
-
-:outbox_tray: 2024 Goals: create a new project and find a new job.
+:books: Atualmente estou cursando graduação em Engenharia de Software.
 
 
-## About me
+## Sobre mim
 
  <a href="https://www.linkedin.com/in/felipe-cordeiro-2a3285286/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,7 +22,7 @@
 
 
    
-#### Thanks for visiting. :vulcan_salute:
+#### Obrigado pela visita. :vulcan_salute:
 
 ----------------------------------------------------------------------------------
 
