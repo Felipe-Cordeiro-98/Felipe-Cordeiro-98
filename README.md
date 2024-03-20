@@ -1,6 +1,6 @@
 # Felipe Cordeiro
 
-:computer: Sou Desenvolvedor Back-End!
+:computer: Sou Desenvolvedor Full Stack!
 
 :house_with_garden: Moro no Brasil.
 
