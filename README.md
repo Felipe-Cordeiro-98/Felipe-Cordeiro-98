@@ -1,4 +1,3 @@
----
 
 # 🚀 Felipe Cordeiro
 
@@ -44,5 +43,3 @@ Atualmente, estou cursando **Engenharia de Software** e sou apaixonado por tecno
 ---
 
 💡 _"Sempre aprendendo e evoluindo no mundo da tecnologia!"_ 🚀  
-
----
