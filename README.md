@@ -1,4 +1,3 @@
-
 # 🚀 Felipe Cordeiro
 
 🎯 **Desenvolvedor Full Stack | Java & Spring Boot | React.js**  
@@ -10,11 +9,33 @@ Atualmente, estou cursando **Engenharia de Software** e sou apaixonado por tecno
 
 ## 🛠️ Tecnologias e Ferramentas  
 
-**💻 Backend:** Java | Spring Boot | JPA/Hibernate | Node.js | Express  
-**🌐 Frontend:** React.js | Vite | HTML | CSS | Tailwind CSS | Material UI  
-**🗄️ Banco de Dados:** PostgreSQL | MySQL  
-**⚙️ DevOps:** Docker | Git | GitHub | CI/CD  
-**📜 Metodologias:** Scrum | Kanban  
+### **💻 Backend**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA/Hibernate](https://img.shields.io/badge/JPA%2FHibernate-%235A3E2B.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### **🌐 Frontend**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **🗄️ Banco de Dados**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **⚙️ DevOps**
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### **📜 Metodologias**
+![Scrum](https://img.shields.io/badge/Scrum-%230094CD.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-%23FF8C00.svg?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
